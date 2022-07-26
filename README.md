@@ -12,4 +12,4 @@ This script accepts a *.txt as input, parsing data-structure with simple ***FILE
 
 It also accepts a *.xml as input, by using XML::Simple package && XMLin function, constructing XML DB
 
-Finally do XML && TXT DB comparing, and a *.new.txt generated
+Finally do XML && TXT DB comparing, and a *.new.txt generated (XML DB is treated as golden spec)

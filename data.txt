@@ -1,0 +1,30 @@
+country China {
+  city Beijing {
+    people 2.1x10^8;
+    region Xicheng {
+      area 50.7km2;
+      attribute Hospital;
+    }
+    region Haidian {
+      area 431km2;
+      attribute Education;
+    }
+    region Chaoyang {
+      attribute Fiance;
+    }
+  }
+  city Shanghai {
+    people 2.5x10^8;
+    region Xujiahui {
+      area 4.04km2;
+      attribute People;
+    }
+    region Pudong {
+      area 1210km2;
+      attribute Fiance;
+    }
+    region Minhang {
+      attribute Hub;
+    }
+  }
+}

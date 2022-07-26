@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spirit:country>
+  <spirit:name>China</spirit:name>
+  <spirit:city>
+    <spirit:name>Beijing</spirit:name>
+    <spirit:people>2.1x10^8</spirit:people>
+    <spirit:region>
+      <spirit:name>Xicheng</spirit:name>
+      <spirit:area>50.7km2</spirit:area>
+      <spirit:attribute>Hospital</spirit:attribute>
+    </spirit:region>
+    <spirit:region>
+      <spirit:name>Haidian</spirit:name>
+      <spirit:area>431km2</spirit:area>
+      <spirit:attribute>Education</spirit:attribute>
+    </spirit:region>
+    <spirit:region>
+      <spirit:name>Chaoyang</spirit:name>
+      <spirit:attribute>Fiance</spirit:attribute>
+    </spirit:region>
+  </spirit:city>
+  <spirit:city>
+    <spirit:name>Shanghai</spirit:name>
+    <spirit:people>2.5x10^8</spirit:people>
+    <spirit:region>
+      <spirit:name>Xujiahui</spirit:name>
+      <spirit:area>4.04km2</spirit:area>
+      <spirit:attribute>people</spirit:attribute>
+    </spirit:region>
+    <spirit:region>
+      <spirit:name>Pudong</spirit:name>
+      <spirit:area>1210km2</spirit:area>
+      <spirit:attribute>Fiance</spirit:attribute>
+    </spirit:region>
+    <spirit:region>
+      <spirit:name>Minhang</spirit:name>
+      <spirit:attribute>Hub</spirit:attribute>
+    </spirit:region>
+  </spirit:city>
+</spirit:country>  
